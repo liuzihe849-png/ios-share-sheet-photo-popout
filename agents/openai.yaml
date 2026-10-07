@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS 分享面板人物破框"
+  short_description: "把人物原照做成手机分享面板摄影拼贴，支持强破框和轻破框两种构图"
+  default_prompt: "使用 $ios-share-sheet-photo-popout 将我的人物照片制作成 iOS 分享面板破框拼贴，保留原始姿势、服装和配饰。"

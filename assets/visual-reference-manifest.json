@@ -1,0 +1,17 @@
+{
+  "role": "style_reference_only",
+  "author": "理智画",
+  "github": "liuzihe849-png",
+  "not_source_identity": true,
+  "publication_authorized": true,
+  "visual_acceptance": "preview; user aesthetic approval and post-download retest remain separate",
+  "images": [
+    {
+      "path": "assets/reference-original.png",
+      "sha256": "0fb644097fa539846e22390decaf30976cf8a27fa0e59fcdce1e3dd514f4b082",
+      "origin": "author workflow original sample",
+      "limitations": "仅提供 strong 原创样片。subtle 按文字规则制作，尚无公开原创样片；图标为生成近似。"
+    }
+  ],
+  "minimum_visual_signature": "Coherent iOS-inspired share-sheet layout with central rounded photo, side crops and share entries. Use the reference for selected strong/subtle mode; preserve original body and support/contact objects. At least one source-derived popout, with foreground aligned to card photo. No duplicated body parts."
+}
